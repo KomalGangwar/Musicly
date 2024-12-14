@@ -27,6 +27,4 @@ MelodyMix is an Innovative AR(Augmented Reality) based Application that allows u
 1. Clone the repository from GitHub.
 2. Run it in the CodeSandbox or CodePen.
 
-## Authors
 
-- [Neeraj](https://www.linkedin.com/in/neeraj-verma-2b2b46244/)
